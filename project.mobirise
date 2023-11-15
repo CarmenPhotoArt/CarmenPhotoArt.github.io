@@ -45,9 +45,9 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://carmenphotoart.github.io/",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
